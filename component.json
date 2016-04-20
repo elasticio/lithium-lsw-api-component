@@ -1,0 +1,13 @@
+{
+  "title": "Lithium LSW API",
+  "description": "Connector for Lithium Social Web API",
+  "credentials": {
+    "fields": {
+      "name": {
+        "label": "My API Key",
+        "required": true,
+        "viewClass": "TextFieldView"
+      }
+    }
+  }
+}
